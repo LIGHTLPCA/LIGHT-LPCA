@@ -1,15 +1,16 @@
 <div align="center">
-  <h1>🧠 LIGHT LPCA</h1>
+  <h1>⚡ LIGHT LPCA</h1>
+  <p><b>(Lucid Private Cognitive Agent)</b></p>
   <p><b>A Continuous Subconscious AI Assistant for Everyone.</b></p>
   <p><i>Currently accepting 30 early beta testers.</i></p>
 
   <!-- PLACEHOLDER_FOR_DASHBOARD_SCREENSHOT -->
-  <img src="assets/Chat%20Interface.png" alt="LIGHT LPCA Dashboard">
+  <img src="assets/First%20Page.png" alt="LIGHT LPCA Dashboard">
 </div>
 
 <br/>
 
-## ⚠️ The Problem: AI is Too Reactive
+## ⚠️ The Problem: AI is Reactive
 Right now, most AI assistants only work when you ask them to. You type a prompt, and they give an answer. When you close the tab, they go to sleep. 
 
 But humans don't work like that. We need a system that thinks even when we are not typing.
@@ -29,16 +30,6 @@ LIGHT analyzes your ongoing work and autonomously decides how it can assist you.
 
 <br/>
 
-<div align="center">
-  <img src="assets/BYOK%20Setup.png" alt="BYOK Setup" width="600">
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/Personal%20DB.png" alt="Personal Database Setup" width="600">
-</div>
-
 ---
 
 ## 🚀 Key Features
@@ -50,13 +41,25 @@ This is the core engine that runs silently in the background. It is responsible 
 <br/>
 
 <div align="center">
-  <img src="assets/Shadow%20Brain%20Toggle.png" alt="Shadow Brain Toggle" width="600">
+  <img src="assets/Shadow%20Brain%20Toggle.png" alt="Shadow Brain Toggle">
 </div>
 
 ### 2. Bring Your Own Key (BYOK) & Database
 You are in complete control of your AI and your data.
 - **Universal API Hub:** You don't pay us for AI credits. LIGHT automatically supports 9 major API providers (including OpenAI, Google Gemini, Anthropic Claude, Groq, and more). Just paste your personal key and the system handles the rest.
 - **Personal Database Support:** You can connect your own private database (PostgreSQL or MongoDB). Your data is securely stored in your own personal vault, ensuring complete ownership and privacy.
+
+<br/>
+
+<div align="center">
+  <img src="assets/BYOK%20Setup.png" alt="BYOK Setup">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/Personal%20DB.png" alt="Personal Database Setup">
+</div>
 
 ### 3. Sharp Memory
 Most AIs forget what you told them yesterday. LIGHT has a highly structured memory system. It saves your important context, ideas, and preferences into your personal database. Because the data is structured so perfectly, LIGHT remembers your long-term conversations and never loses the context of your projects.
