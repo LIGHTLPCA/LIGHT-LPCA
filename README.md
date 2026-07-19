@@ -2,7 +2,7 @@
   <h1>⚡ LIGHT LPCA</h1>
   <p><b>(Lucid Private Cognitive Agent)</b></p>
   <p><b>A Continuous Subconscious AI Assistant for Everyone.</b></p>
-  <p><i>Currently accepting 30 early beta testers.</i></p>
+  <p><i>Currently accepting 20 early beta testers.</i></p>
 
   <!-- PLACEHOLDER_FOR_DASHBOARD_SCREENSHOT -->
   <img src="assets/First%20Page.png" alt="LIGHT LPCA Dashboard">
@@ -67,7 +67,7 @@ Most AIs forget what you told them yesterday. LIGHT has a highly structured memo
 ---
 
 ## 🎟️ Join the Closed Beta
-We are currently in a closed testing phase and looking for 30 early users to try out the system and share their honest feedback. 
+We are currently in a closed testing phase and looking for 20 early users to try out the system and share their honest feedback. 
 
 Since you will be using your own API keys, testing is completely free.
 
