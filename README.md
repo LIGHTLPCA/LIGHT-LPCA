@@ -73,10 +73,10 @@ Most AIs forget what you told them yesterday. LIGHT has a highly structured memo
 ## 🎟️ Join the Closed Beta
 We are currently in a closed testing phase and looking for 20 early users to try out the system and share their honest feedback. 
 
-Since you will be using your own API keys, testing is completely free.
+Since you will be using your own API keys and own DB, testing is completely free.
 
 👇 **Apply for the Beta here:**
-> **[ Google Form or Tally Form Link ]**
+> **https://forms.gle/vyHMf7KiYMecxCj99**
 
 <br/>
 
