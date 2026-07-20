@@ -2,7 +2,11 @@
   <h1>⚡ LIGHT LPCA</h1>
   <p><b>(Lucid Private Cognitive Agent)</b></p>
   <p><b>A Continuous Subconscious AI Assistant for Everyone.</b></p>
-  <p><i>Currently accepting 20 early beta testers.</i></p>
+  <br/>
+  <a href="https://forms.gle/vyHMf7KiYMecxCj99">
+    <img src="https://img.shields.io/badge/Join_Closed_Beta-(Only_20_Seats!)-5746e3?style=for-the-badge" alt="Join Closed Beta">
+  </a>
+  <br/>
 
   <!-- PLACEHOLDER_FOR_DASHBOARD_SCREENSHOT -->
   <img src="assets/First%20Page.png" alt="LIGHT LPCA Dashboard">
